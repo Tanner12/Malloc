@@ -1,4 +1,3 @@
-//Sheila Truong(53588737) & Tanner Sirota(61932813)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
